@@ -1,0 +1,204 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Taylor Swift Concert",
+      "address": "Madison Square Garden, New York",
+      "coordinates": {
+        "latitude": 40.7505,
+        "longitude": -73.9934
+      },
+      "beginTime": "19:00",
+      "images": [
+        "http://www.example.com/taylor_swift_image1.jpg",
+        "http://www.example.com/taylor_swift_image2.jpg"
+      ],
+      "video": "http://www.example.com/taylor_swift_video.mp4",
+      "socialMediaLink": "http://www.instagram.com/taylorswift",
+      "price": 100,
+      "ticketsLink": "http://www.ticketmaster.com/taylor-swift",
+      "phoneNumber": "1-800-123-4567",
+      "isFavorite": false
+    },
+    {
+      "id": 2,
+      "name": "Ed Sheeran Live",
+      "address": "Wembley Stadium, London",
+      "coordinates": {
+        "latitude": 51.5561,
+        "longitude": -0.2794
+      },
+      "beginTime": "20:00",
+      "images": [
+        "http://www.example.com/ed_sheeran_image1.jpg",
+        "http://www.example.com/ed_sheeran_image2.jpg"
+      ],
+      "video": "http://www.example.com/ed_sheeran_video.mp4",
+      "socialMediaLink": "http://www.instagram.com/edsheeran",
+      "price": 80,
+      "ticketsLink": "http://www.ticketmaster.co.uk/ed-sheeran",
+      "phoneNumber": "44-20-1234-5678",
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "name": "Beyoncé: Formation World Tour",
+      "address": "Rose Bowl Stadium, Los Angeles",
+      "coordinates": {
+        "latitude": 34.1613,
+        "longitude": -118.1678
+      },
+      "beginTime": "18:30",
+      "images": [
+        "http://www.example.com/beyonce_image1.jpg",
+        "http://www.example.com/beyonce_image2.jpg"
+      ],
+      "video": "http://www.example.com/beyonce_video.mp4",
+      "socialMediaLink": "http://www.instagram.com/beyonce",
+      "price": 120,
+      "ticketsLink": "http://www.ticketmaster.com/beyonce",
+      "phoneNumber": "1-800-987-6543",
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "name": "Coldplay: A Head Full of Dreams Tour",
+      "address": "Estadio Nacional, Santiago",
+      "coordinates": {
+        "latitude": -33.465,
+        "longitude": -70.655
+      },
+      "beginTime": "21:00",
+      "images": [
+        "http://www.example.com/coldplay_image1.jpg",
+        "http://www.example.com/coldplay_image2.jpg"
+      ],
+      "video": "http://www.example.com/coldplay_video.mp4",
+      "socialMediaLink": "http://www.instagram.com/coldplay",
+      "price": 90,
+      "ticketsLink": "http://www.ticketek.cl/coldplay",
+      "phoneNumber": "56-2-8765-4321",
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "name": "Adele Live",
+      "address": "Sydney Opera House, Sydney",
+      "coordinates": {
+        "latitude": -33.8568,
+        "longitude": 151.2153
+      },
+      "beginTime": "20:30",
+      "images": [
+        "http://www.example.com/adele_image1.jpg",
+        "http://www.example.com/adele_image2.jpg"
+      ],
+      "video": "http://www.example.com/adele_video.mp4",
+      "socialMediaLink": "http://www.instagram.com/adele",
+      "price": 110,
+      "ticketsLink": "http://www.sydneyoperahouse.com/adele",
+      "phoneNumber": "61-2-9876-5432",
+      "isFavorite": false
+    },
+    {
+      "id": 6,
+      "name": "Bruno Mars: 24K Magic World Tour",
+      "address": "MGM Grand Garden Arena, Las Vegas",
+      "coordinates": {
+        "latitude": 36.1024,
+        "longitude": -115.1695
+      },
+      "beginTime": "19:30",
+      "images": [
+        "http://www.example.com/bruno_mars_image1.jpg",
+        "http://www.example.com/bruno_mars_image2.jpg"
+      ],
+      "video": "http://www.example.com/bruno_mars_video.mp4",
+      "socialMediaLink": "http://www.instagram.com/brunomars",
+      "price": 95,
+      "ticketsLink": "http://www.ticketmaster.com/bruno-mars",
+      "phoneNumber": "1-888-765-4321",
+      "isFavorite": false
+    },
+    {
+      "id": 7,
+      "name": "Rihanna: Anti World Tour",
+      "address": "AccorHotels Arena, Paris",
+      "coordinates": {
+        "latitude": 48.8385,
+        "longitude": 2.3787
+      },
+      "beginTime": "19:45",
+      "images": [
+        "http://www.example.com/rihanna_image1.jpg",
+        "http://www.example.com/rihanna_image2.jpg"
+      ],
+      "video": "http://www.example.com/rihanna_video.mp4",
+      "socialMediaLink": "http://www.instagram.com/badgalriri",
+      "price": 85,
+      "ticketsLink": "http://www.ticketmaster.fr/rihanna",
+      "phoneNumber": "33-1-2345-6789",
+      "isFavorite": false
+    },
+    {
+      "id": 8,
+      "name": "Drake: Summer Sixteen Tour",
+      "address": "Air Canada Centre, Toronto",
+      "coordinates": {
+        "latitude": 43.6435,
+        "longitude": -79.3791
+      },
+      "beginTime": "20:15",
+      "images": [
+        "http://www.example.com/drake_image1.jpg",
+        "http://www.example.com/drake_image2.jpg"
+      ],
+      "video": "http://www.example.com/drake_video.mp4",
+      "socialMediaLink": "http://www.instagram.com/champagnepapi",
+      "price": 75,
+      "ticketsLink": "http://www.ticketmaster.ca/drake",
+      "phoneNumber": "1-877-876-5432",
+      "isFavorite": false
+    },
+    {
+      "id": 9,
+      "name": "Justin Bieber: Purpose World Tour",
+      "address": "Estadio Nacional, Lima",
+      "coordinates": {
+        "latitude": -12.0551,
+        "longitude": -77.0644
+      },
+      "beginTime": "21:30",
+      "images": [
+        "http://www.example.com/justin_bieber_image1.jpg",
+        "http://www.example.com/justin_bieber_image2.jpg"
+      ],
+      "video": "http://www.example.com/justin_bieber_video.mp4",
+      "socialMediaLink": "http://www.instagram.com/justinbieber",
+      "price": 70,
+      "ticketsLink": "http://www.teleticket.com.pe/justin-bieber",
+      "phoneNumber": "51-1-7654-3210",
+      "isFavorite": false
+    },
+    {
+      "id": 10,
+      "name": "Kanye West: The Saint Pablo Tour",
+      "address": "United Center, Chicago",
+      "coordinates": {
+        "latitude": 41.8807,
+        "longitude": -87.6742
+      },
+      "beginTime": "20:45",
+      "images": [
+        "http://www.example.com/kanye_west_image1.jpg",
+        "http://www.example.com/kanye_west_image2.jpg"
+      ],
+      "video": "http://www.example.com/kanye_west_video.mp4",
+      "socialMediaLink": "http://www.instagram.com/kanyewest",
+      "price": 65,
+      "ticketsLink": "http://www.ticketmaster.com/kanye-west",
+      "phoneNumber": "1-866-654-3210",
+      "isFavorite": false
+    }
+  ]
+}
